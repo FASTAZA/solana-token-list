@@ -1,0 +1,12 @@
+{
+  "name": "FASTAZA",
+  "symbol": "AZA",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmYNfCon1is93wGdD4ksW4xpDjkSMHBeYYeDX75Hc5LgSV",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "7qFcrnLrxh1dLhbBUtd6LNEvg8VQrW2YcABj4b3euWuH",
+      "share": 100
+    }
+  ]
+}
